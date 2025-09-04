@@ -1,7 +1,6 @@
 ---
 title: "My Website"
 author: "Kevin Lynch"
-date: "2025-09-03"
 output: html_document
 ---
 
